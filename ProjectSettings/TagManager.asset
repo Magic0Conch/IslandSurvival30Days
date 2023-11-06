@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Axe
+  - Item
+  - Sword
+  - tweezer
+  - Enemy
+  - Dudu
+  - cave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Podt processing
+  - BackGround
+  - ForeGround
+  - Ground
+  - Item
+  - Enemy
+  - house
+  - BuildArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 78991527
+    locked: 0
+  - name: Cave
+    uniqueID: 1242583903
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 193263953
+    locked: 0
+  - name: Creature
+    uniqueID: 1502964125
+    locked: 0
+  - name: house
+    uniqueID: 624008581
+    locked: 0
